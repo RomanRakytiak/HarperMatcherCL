@@ -41,7 +41,7 @@ Nasledujúce moduly poskytujú pomocnú infraštruktúru:
 
 ### `mtex.cl`
 
-Definície TeX šablón používaných pri generovaní dokumentácie.
+Definície TeX šablón pre zobrazovanie matematických symbolov.
 
 ### `mdebug.cl`
 
