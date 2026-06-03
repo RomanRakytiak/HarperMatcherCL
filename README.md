@@ -3,6 +3,8 @@ Experimentálna verifikácia Harperovho algoritmu pre rozpoznávanie regulárnyc
 
 # Kompilácia a Štruktúra projektu
 
+Projekt sa nachádza v priečinku src.
+
 Projekt je možné skompilovať príkazom:
 
 ```bat
