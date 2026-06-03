@@ -1,7 +1,7 @@
 # HarperMatcherCL
-Experimentálna verifikácia Harperovho algoritmu pre rozpoznávanie regulárnych výrazov pomocou simulácie paradigmy totálneho deklaratívneho programovania v CL.
+Experimentálna verifikácia Harperovho algoritmu pre rozpoznávanie regulárnych výrazov pomocou simulácie paradigmy totálneho deklaratívneho programovania v prostredí Clausal Language (CL).
 
-Tento projekt je experimentálny doplnok k bakalárskej práci Harperov algoritmus pre rozpoznávanie regulárnych výrazov vypracovanej na FMFI UK pod vedením Ing. Jána Komaru, PhD.. Viac na [stránke práce](https://www.st.fmph.uniba.sk/~rakytiak3/bakalarka/).
+Tento projekt je experimentálny doplnok k bakalárskej práci Harperov algoritmus pre rozpoznávanie regulárnych výrazov vypracovanej na FMFI UK pod vedením Ing. Jána Komaru, PhD. - viac na [stránke práce](https://www.st.fmph.uniba.sk/~rakytiak3/bakalarka/).
 
 # Kompilácia a Štruktúra projektu
 
