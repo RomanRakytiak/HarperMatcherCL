@@ -1,5 +1,5 @@
 # HarperMatcherCL
-Experimentálna verifikácia Harperovho algoritmu pre rozpoznávanie regulárnych výrazov v CL
+Experimentálna verifikácia Harperovho algoritmu pre rozpoznávanie regulárnych výrazov pomocou simulácie paradigmy totálneho deklaratívneho programovania v CL.
 
 # Kompilácia a Štruktúra projektu
 
